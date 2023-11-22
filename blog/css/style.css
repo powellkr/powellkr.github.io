@@ -94,8 +94,8 @@ h1 {
     border-radius: 0.3rem;
     border-top-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
-    color: #FACB9E;
-    background-color: #FF6E82;
+    color: #FF6E82;
+    background-color: #FACB9E;
     box-shadow: 5px 5px 4px -1px #888;
 }
 
@@ -198,9 +198,10 @@ nav {
     border-bottom: 1px solid #200806;
 }
 
-aside h3 a{
-    border-radius: 25%;
+.expand {
+    font-size: 1rem;
 }
+
 /* LINK STYLING */
 
 a {
