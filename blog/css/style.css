@@ -102,8 +102,7 @@ h1 {
 
 .rotate{
     transform: rotate(5deg);
-    color: black;
-}
+    }
 
 /*GENERAL SETUP AND DEFAULTS*/
 * {
@@ -207,13 +206,17 @@ nav a {
     color: #4AB487;
 }
 
+.rotate{
+    color: black;
+}
+
 nav {
     border-top: 1px solid #200806;
     border-bottom: 1px solid #200806;
 }
 
 .expand {
-    border-radius: 50%;
+    border-radius: 10px;
 }
 
 /* LINK STYLING */
