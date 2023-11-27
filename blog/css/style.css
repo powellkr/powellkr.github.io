@@ -175,8 +175,9 @@ aside p {
     font-family: ultra, georgia, serif;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display: block;
     font-size: 15px;
+    
   }
 
 /*IMAGES AND FIGURES*/
