@@ -100,8 +100,8 @@ h1 {
     box-shadow: 5px 5px 4px -1px #888;
 }
 
-.a blog{
-    transform: rotate(-3deg);
+.rotate{
+    transform: rotate(-5deg);
 }
 
 
@@ -157,8 +157,12 @@ aside p {
     display: flex;
 }
 
-.footer p{
+.attribution{
     float: right;
+}
+
+.copyright{
+    float: left;
 }
 
 /*IMAGES AND FIGURES*/
