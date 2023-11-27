@@ -234,14 +234,14 @@ nav {
 
 /* LINK STYLING */
 
-a {
+.button {
     outline: none;
 }
 
-a:link, a:visited {
+.button:link, .button:visited {
     color: #33658A;
 }
 
-a:focus, a:hover {
+.button:focus, .button:hover {
     text-decoration: none;
 }
