@@ -84,6 +84,7 @@ h1 {
     font-size: 3rem;
     letter-spacing: 0.25rem;
     transform: rotate(-5deg);
+    text-align: center;
 }
 
 .highlight {
@@ -98,6 +99,11 @@ h1 {
     background-color: #FACB9E;
     box-shadow: 5px 5px 4px -1px #888;
 }
+
+.a blog{
+    transform: rotate(-3deg);
+}
+
 
 /*GENERAL SETUP AND DEFAULTS*/
 * {
@@ -151,6 +157,10 @@ aside p {
     display: flex;
 }
 
+.footer p{
+    float: right;
+}
+
 /*IMAGES AND FIGURES*/
 
 img{
@@ -199,7 +209,7 @@ nav {
 }
 
 .expand {
-    border-radius: 10px;
+    border-radius: 50%;
 }
 
 /* LINK STYLING */
