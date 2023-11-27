@@ -101,7 +101,7 @@ h1 {
 }
 
 .rotate{
-    transform: rotate(-5deg);
+    transform: rotate(5deg);
 }
 
 
@@ -213,7 +213,8 @@ nav {
 }
 
 .expand {
-    border-radius: 50%;
+    height: 50%;
+    width: 50%;
 }
 
 /* LINK STYLING */
