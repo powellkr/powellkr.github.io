@@ -221,7 +221,7 @@ nav a {
 }
 
 .rotate{
-    color: black;
+    
 }
 
 nav {
@@ -230,7 +230,8 @@ nav {
 }
 
 .expand {
-    border-radius: 10px;
+    transform: scale(.5);
+    display: inline-block;
 }
 
 /* LINK STYLING */
