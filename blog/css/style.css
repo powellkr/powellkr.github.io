@@ -165,7 +165,8 @@ aside p {
 }
 
 .button {
-    background-color: #f09cdd; 
+    background-color: #f026c1; 
+    border-radius: 12px;
     border: 1px solid black;
     padding: 1rem 2rem;
     border-radius: 1rem 1rem;
@@ -218,10 +219,6 @@ nav a {
     font-size: 1.5rem;
     font-family: lato, arial, sans-serif;
     color: #4AB487;
-}
-
-.rotate{
-    
 }
 
 nav {
