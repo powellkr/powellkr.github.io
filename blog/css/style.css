@@ -164,6 +164,20 @@ aside p {
     float: left;
 }
 
+.button {
+    background-color: #f09cdd; 
+    border: 1px solid black;
+    padding: 1rem 2rem;
+    border-radius: 1rem 1rem;
+    color: white;
+    padding: 5px 10px;
+    font-family: ultra, georgia, serif;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+  }
+
 /*IMAGES AND FIGURES*/
 
 img{
